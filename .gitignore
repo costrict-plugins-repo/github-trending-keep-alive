@@ -1,0 +1,13 @@
+# Editor and OS noise
+.DS_Store
+*.swp
+*~
+.idea/
+.vscode/
+
+# Brainstorming session files
+.superpowers/
+
+# Test runtime artifacts
+tests/tmp/
+*.log
